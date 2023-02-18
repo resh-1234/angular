@@ -1,0 +1,11 @@
+.img-container{
+    width: 700px;
+    height: 700px;
+}
+.img-container img{
+    width: 400%;
+    height: 400%;
+}
+.arts-cont{
+    text-align: justify;
+}

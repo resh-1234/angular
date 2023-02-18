@@ -1,0 +1,17 @@
+.signupbtn{
+    float:left;
+    width: 40%;
+}
+
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: flex;
+}
+.signup form{
+    width: 50px;
+    margin:auto;
+    padding-top:10px;
+    padding-left: 10px;
+
+  }
